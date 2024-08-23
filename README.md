@@ -26,6 +26,5 @@ This repository contains a project focused on predicting stock prices using Long
 - **Model Training:** Train the LSTM model with prepared data.
 - **Evaluation:** Evaluate the model's performance and visualize results.
 
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
